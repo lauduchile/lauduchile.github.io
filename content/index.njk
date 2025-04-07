@@ -9,6 +9,11 @@ const numberOfLatestPostsToShow = 3;
 
 <img src="img/logotipo.png" alt="logo de Lutheria PostDigital">
 
+<p>Luthería PostDigital (LUPO) es un equipo multidisciplinar enfocado en intersecciones artístico-científicas en torno al estudio, diseño y fabricación de instrumentos musicales. Desarrollamos una amplia gama de proyectos que abarcan el estudio de instrumentos patrimoniales, la caracterización vibroacústica de instrumentos tradicionales, la invención de nuevas tecnologías aplicables al ámbito de la luthería y la acústica musical y la investigación de nuevos materiales para ser aplicados en la construcción de instrumentos.</p>
+
+<p>Nos alojamos en LAÚD (Laboratorio de Acústica Musical y Luthería Postdigital de Departamento de Sonido de la Universidad de Chile), espacio de experimentación científica y artística implementado especialmente para el estudio de la acústica musical y la fabricación digital.</p>
+
+{#
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>{{ latestPostsCount }} Noticia{% if latestPostsCount != 1 %}s{% endif %} reciente{% if latestPostsCount != 1 %}s{% endif %}</h1>
@@ -21,6 +26,7 @@ const numberOfLatestPostsToShow = 3;
 {% if morePosts > 0 %}
 <p>Puedes encontrar {{ morePosts }} entrada{% if morePosts != 1 %}s{% endif %} más en <a href="blog.njk">nuestro archivo</a>.</p>
 {% endif %}
+#}
 
 {# List every content page in the project #}
 {#
