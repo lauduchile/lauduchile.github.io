@@ -17,6 +17,11 @@ Lutheria Postdigital es un grupo de investigación de la Universidad de Chile.
 
 Dra. en física y música autodidacta. Actualmente Profesora Asociada del Departamento de Sonido de la Facultad de Artes de la Universidad de Chile, Directora del Laboratorio de Acústica Musical y Luthería Postdigital (LAÚD) de dicha unidad, y estudiante de Luthería con el maestro Roberto Hernández. Sus intereses e investigaciones giran en torno al estudio de las relaciones entre materialidad y sonido desde sus fundamentos físico-matemáticos, perceptuales, hasta sus alcances artísticos. Ha trabajado en investigaciones relacionadas con la caracterización acústica y mecánica de materiales como metales, maderas, polímeros y biomateriales. Realiza investigaciones y creaciones en torno a la aplicación de nuevos materiales en la fabricación de instrumentalidades musicales, reflexionando desde la Luthería Postdigital sobre las relaciones entre tradición y nuevas técnicas de fabricación. En conjunto con investigadoras e investigadores del Museo de Arte Popular Americano (MAPA) explora su colección de instrumentos patrimoniales, en busca de proponer nuevas formas de preservación e interacción con éstos. En el área musical se he desarrollado como autora, compositora e intérprete.
 
+ORCID: <https://orcid.org/0000-0003-4046-0944>
+Google Scholar: <https://scholar.google.com/citations?user=fWJwF-IAAAAJ>
+Scopus: <https://www.scopus.com/authid/detail.uri?authorId=57529222600>
+Web: <https://sites.google.com/view/caroespinoza>
+
 ### Claudio Carreño
 
 <img src="./claudio-carreno.jpg" alt="imagen del luthier Claudio Carreño">
