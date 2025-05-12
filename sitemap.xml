@@ -37,6 +37,11 @@
 	</url>
 	
 	<url>
+		<loc>https://example.com/proyectos/</loc>
+		<lastmod>2025-05-12</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://example.com/publicaciones/</loc>
 		<lastmod>2025-05-12</lastmod>
 	</url>
