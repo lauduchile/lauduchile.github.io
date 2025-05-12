@@ -7,7 +7,17 @@ const eleventyNavigation = {
 
 # Fondos
 
-este lab ha obtenido los siguientes fondos:
+nuestro lab ha obtenido los siguientes fondos:
 
-* uno
-* dos
+| Número | Nombre  |
+| ------ | ------- |
+| 01     | Nombre  |
+| 02     | Nombre  |
+| 03     | Nombre  |
+| 04     | Nombre  |
+| 05     | Nombre  |
+| 06     | Nombre  |
+| 07     | Nombre  |
+| 08     | Nombre  |
+| 09     | Nombre  |
+| 10     | Nombre  |
