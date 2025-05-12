@@ -1,7 +1,7 @@
 {
-	"name": "lutheria-postdigital",
-	"version": "0.0.1",
-	"description": "Sitio web del centro de investigación Luthería Postdigital",
+	"name": "laud-uchile",
+	"version": "0.0.2",
+	"description": "Sitio web del laboratorio LAUD UChile",
 	"type": "module",
 	"scripts": {
 		"build": "npx @11ty/eleventy",
@@ -15,7 +15,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/lutheriapostdigital/lutheriapostdigital.github.io.git"
+		"url": "git://github.com/lauduchile/lauduchile.github.io.git"
 	},
 	"license": "MIT",
 	"engines": {
