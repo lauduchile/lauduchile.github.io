@@ -1,7 +1,7 @@
 ---js
 const eleventyNavigation = {
  key: "Contacto",
- order: 6
+ order: 8
 }
 ---
 
