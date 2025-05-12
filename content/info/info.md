@@ -27,3 +27,19 @@ Web: <https://sites.google.com/view/caroespinoza>
 <img src="./claudio-carreno.jpg" alt="imagen del luthier Claudio Carreño">
 
 Luthier tradicional y postdigital de cordófonos latinoamericanos. Co-investigador en el Laboratorio de Acústica Musical y Luthería Postdigital del Departamento de Sonido de la Universidad de Chile (LAÚD), y actualmente estudiante de Ingeniería Civil Mecánica en la Universidad de Chile.  Una de sus principales líneas de innovación es el sistema de contradiapasón, propuesta que apunta a aumentar la tesitura y número de cuerdas de instrumentos de cuerda como la guitarra, el charango, entre otros. En el ámbito digital, sus principales aportes se encuentran en el área de diseño y fabricación, con énfasis y técnicas aditivas y sustractivas. En conjunto con investigadoras e investigadores del Museo de Arte Popular Americano (MAPA) explora su colección de instrumentos patrimoniales, enfocado principalmente en el desarrollo de réplicas a partir de modelos digitales obtenidos vía escaneo 3D. En el área musical se ha desarrollado de manera autodidacta como compositor e intérprete en piano y contradia (guitarra con sistema de contradiapasón, instrumento de su invención).
+
+### Roberto Hernández
+
+placeholder
+
+### Víctor Correa
+
+placeholder
+
+### José Baeza
+
+placeholder
+
+### Aarón Montoya
+
+placeholder
