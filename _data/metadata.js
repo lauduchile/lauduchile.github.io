@@ -1,11 +1,11 @@
 export default {
-	title: "Lutheria Postdigital",
-	url: "https://example.com/",
+	title: "LAUD UChile",
+	url: "https://lauduchile.github.io/",
 	language: "es",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "Página web del laboratorio de investigación LAUD UChile",
 	author: {
-		name: "Lutheria Postdigital",
-		email: "youremailaddress@example.com",
-		url: "https://example.com/about-me/"
+		// name: "Lutheria Postdigital",
+		// email: "youremailaddress@example.com",
+		// url: "https://example.com/about-me/"
 	}
 }
