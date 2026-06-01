@@ -1,0 +1,15 @@
+personas:
+  - nombre: "Carolina Espinoza Oñate"
+    github: false
+    correo: false
+    uchile:
+      cargo: "Profesora asociada"
+      departamento: "Departamento de sonido"
+      facultad: "Facultad de artes"
+    lab:
+      cargo: "investigadora principal"
+    enlaces:
+      uchile-portafolio-academico: "https://portafolio-academico.uchile.cl/perfil/68237-Carolina-Andrea-Espinoza-Onate"
+      google-scholar: "https://scholar.google.com/citations?user=fWJwF-IAAAAJ"
+      orcid: "https://orcid.org/0000-0003-4046-0944"
+      

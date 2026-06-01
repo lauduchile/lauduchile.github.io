@@ -1,16 +1,20 @@
 ---js
 const eleventyNavigation = {
- key: "Equipo",
+ key: "Personas",
  order: 2
+
 }
 ---
 
-# Info
+# Personas
 
-Lutheria Postdigital es un grupo de investigación de la Universidad de Chile.
+{% for persona in personas.personas %}
 
-## Equipo
+## {{ persona.nombre }}
 
+{% endfor %}
+
+<!-- 
 ### Carolina Espinoza
 
 ![Carolina Espinoza](./imagenes/carolina-espinoza.png)
@@ -42,4 +46,4 @@ placeholder
 
 ### Aarón Montoya
 
-placeholder
+placeholder -->
